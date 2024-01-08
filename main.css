@@ -1,5 +1,8 @@
 body {
-  background: lightslategray;
+  background: url("https://www.pixel4k.com/wp-content/uploads/2019/04/peaceful-blur-background-4k_1555207903.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
   color: white;
 }
 
